@@ -7,7 +7,7 @@ namespace SayHello.Controllers
     [Route("api/[controller]")]
     public class SayHelloController : ControllerBase
     {
-        [HttpGet]
+        [HttpPost]
         [Route("Greeting/{name}")]
         public string UserGreeting(string name)
         {
