@@ -30,3 +30,4 @@ C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\SayHello\obj\Debug\net8.0\re
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\SayHello\obj\Debug\net8.0\SayHello.pdb
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\SayHello\obj\Debug\net8.0\SayHello.genruntimeconfig.cache
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\SayHello\obj\Debug\net8.0\ref\SayHello.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\SayHello\obj\Debug\net8.0\SayHello.sourcelink.json
